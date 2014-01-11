@@ -10,7 +10,7 @@
 	<artifactId>checkstyle</artifactId>
 	
 	<properties>
-		<checkstyle.config.location>/rules/checkstyle.xml</checkstyle.config.location>
+		<checkstyle.config.location>rules/checkstyle.xml</checkstyle.config.location>
 	</properties>
 
 	<build>
